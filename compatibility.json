@@ -1,6 +1,6 @@
 {
   "spacy": {
-    "3.4": {
+    "3.4.3": {
       "ca_core_news_lg": ["3.4.3"],
       "ca_core_news_md": ["3.4.3"],
       "ca_core_news_sm": ["3.4.3"],
